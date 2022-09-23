@@ -18,7 +18,3 @@ reports:
       - test-result.xml
     file-format: JUNITXML
     base-directory: reports
-  coverage-report:
-    files:
-      - 'coverage/clover.xml'
-    file-format: 'CLOVERXML'
